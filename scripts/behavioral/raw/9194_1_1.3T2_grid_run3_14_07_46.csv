@@ -1,0 +1,19 @@
+,trial_order,pid,scanid,time,group,list,task,run order,rerun,original run,num1,num2,num3,correct answer,offset,category,probset,iti_onset,iti_duration,stim_onset,stim_duration,response,accuracy,cumulative response time,response time
+0,1,12,9194_1_1.3T2,pre,SPT,1,grid,3,0,1,19,7,28,2,2,large double,A,0.001,6.5,6.509,6,2,1,10.67,4.164
+1,2,16,9194_1_1.3T2,pre,SPT,1,grid,3,0,1,5,9,12,1,-2,large single,B,12.52,5.7,18.214,6,1,1,23.786,5.575
+2,3,28,9194_1_1.3T2,pre,SPT,1,grid,3,0,1,6,0,5,1,-1,small single,Control,24.208,4.3,28.526,6,1,1,30.491,1.967
+3,4,22,9194_1_1.3T2,pre,SPT,1,grid,3,0,1,13,9,20,1,-2,large double,B,34.532,4.0,38.511,6,,,,
+4,5,14,9194_1_1.3T2,pre,SPT,1,grid,3,0,1,3,2,6,2,1,small single,B,44.505,4.9,49.401,6,2,1,52.507,3.11
+5,6,8,9194_1_1.3T2,pre,SPT,1,grid,3,0,1,13,6,18,1,-1,small double,A,55.411,4.1,59.507,6,2,0,63.112,3.609
+6,7,6,9194_1_1.3T2,pre,SPT,1,grid,3,0,1,9,7,19,2,3,large single,A,65.501,7.6,73.11,6,,,,
+7,8,36,9194_1_1.3T2,pre,SPT,1,grid,3,0,1,22,0,21,1,-1,large double,Control,79.104,4.2,83.333,6,1,1,85.642,2.312
+8,9,32,9194_1_1.3T2,pre,SPT,1,grid,3,0,1,14,0,15,2,1,small double,Control,89.329,4.4,93.739,6,2,1,96.366,2.631
+9,10,2,9194_1_1.3T2,pre,SPT,1,grid,3,0,1,2,4,3,1,-3,small single,A,99.718,6.5,106.211,6,1,1,109.785,3.578
+10,11,20,9194_1_1.3T2,pre,SPT,1,grid,3,0,1,2,17,21,2,2,small double,B,112.205,7.6,119.814,6,,,,
+11,12,10,9194_1_1.3T2,pre,SPT,1,grid,3,0,1,5,17,23,2,1,large double,A,125.806,7.0,132.802,6,1,0,135.827,3.028
+12,13,30,9194_1_1.3T2,pre,SPT,1,grid,3,0,1,11,0,12,2,1,large single,Control,138.829,5.6,144.441,6,2,1,148.976,4.538
+13,14,34,9194_1_1.3T2,pre,SPT,1,grid,3,0,1,19,0,17,1,-2,small double,Control,150.418,7.5,157.952,6,1,1,160.467,2.518
+14,15,24,9194_1_1.3T2,pre,SPT,1,grid,3,0,1,9,18,30,2,3,large double,B,163.922,7.6,171.513,6,2,1,173.892,2.381
+15,16,18,9194_1_1.3T2,pre,SPT,1,grid,3,0,1,8,9,15,1,-2,large single,B,177.507,4.3,181.803,6,1,1,186.826,5.026
+16,17,26,9194_1_1.3T2,pre,SPT,1,grid,3,0,1,2,0,5,2,3,small single,Control,187.814,4.4,192.251,6,2,1,193.998,1.75
+17,18,4,9194_1_1.3T2,pre,SPT,1,grid,3,0,1,8,6,12,1,-2,large single,A,198.221,7.2,205.413,6,1,1,210.435,5.024

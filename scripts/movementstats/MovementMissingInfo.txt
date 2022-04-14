@@ -1,0 +1,8 @@
+TASK	PID	Visit	Session	resting	9244	2	1
+grid1	9244	2	1
+grid2	9244	2	1
+grid3	9244	2	1
+grid4	9244	2	1
+sym2_redo	9244	2	1
+sym3_redo	9244	2	1
+sym4_redo	9244	2	1

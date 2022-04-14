@@ -1,0 +1,13 @@
+paralist.parallel = '1';
+paralist.subjectlist = 'subjectlist.txt';
+paralist.runlist = '/oak/stanford/groups/menon/projects/daelsaid/2019_met/data/subjectlist/sym1_runlist.txt';
+paralist.rawdir =  '/oak/stanford/groups/menon/projects/daelsaid/2019_met/data/imaging/participants/';
+paralist.projectdir = '/oak/stanford/groups/menon/projects/daelsaid/2019_met/';
+paralist.task_dsgn  = 'task_design.m';
+paralist.task_dsgn_mat = 'task_design.mat';
+paralist.spmversion = 'spm12';
+runconfig.jobcpus ='4';
+runconfig.jobmem = '8G';
+runconfig.jobtime= '2:00:00';
+runconfig.overwrite='0';
+runconfig.outputfile='${projectdir}/data/imaging/participants/${pid}/visit${visit}/session${session}/sym1/task_design/task_design.mat';

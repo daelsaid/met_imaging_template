@@ -1,0 +1,8 @@
+001T_trained-rest
+003T_untrained-rest
+005T_trained-untrained
+007T_(trained+untrained)-rest
+009T_trained-control
+011T_untrained-control
+013T_(trained+untrained)-control
+015T_control-rest
